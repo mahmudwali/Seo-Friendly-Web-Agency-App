@@ -40,8 +40,8 @@ const Contacts = () => {
             <div className="container mx-auto px-4">
                 <div className="flex flex-wrap items-center justify-center -mx-4">
                     <div className="mb-16 lg:mb-0 max-w-2xl lg:w-1/2 px-4">
-                        <a className="mb-6 inline-block text-3xl font-bold leading-none" href="#">
-                            <img className="h-12" src="atis-assets/logo/atis/atis-mono-sign.svg" alt="" width="auto"/>
+                        <a className="mb-6 inline-block text-xl font-bold leading-none" href="#">
+                            Design<span className='text-yellow-500'>AGENCY</span>
                         </a>
                         <h2 className="mb-4 text-4xl md:text-5xl font-bold font-heading">
                             So much more than a business analytics tool
